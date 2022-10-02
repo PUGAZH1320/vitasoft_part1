@@ -59,7 +59,6 @@ const Formdata = (props) => {
     console.log(countryCode);
     setValues({
       ...values,
-      // "phone": e.target.value
       phone: e.target.value,
     });
   };
