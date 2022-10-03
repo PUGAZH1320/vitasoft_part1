@@ -31,7 +31,7 @@ you can also change MongoDB cluster in .env file which is in  vitasoft_part2-b- 
 in my case it contains
 ###DATABASE_URL=mongodb+srv://admin1:admin@cluster0.imzz1.mongodb.net/test
  
-### Im using REST client instead of postman here.
+### Im using REST client which is a vs code extension instead of postman here.
 route.rest constains all the request
 
 ###GET http://localhost:3001/
