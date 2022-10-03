@@ -9,6 +9,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+it will open our form application
+
+On submit it will show the datas entered in that form on next route (i.e) http://localhost:3000/success
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
